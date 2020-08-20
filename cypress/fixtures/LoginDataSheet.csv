@@ -1,0 +1,11 @@
+Test_case_name,email,password,expect_result
+valid user,josi111@yopmail.com,12345a,login
+valid user,josi112@yopmail.com,12345b,login
+valid user,josi113@yopmail.com,234543,login
+valid user,josi114@yopmail.com,brain123,login
+valid user,josi115@yopmail.com,brain@123,login
+invalid password,josi115@yopmail.com,123456,Login was unsuccessful. Please correct the errors and try again.The credentials provided are incorrect
+invalid user,nepali@test.com,12345e,"Login was unsuccessful.\nPlease correct the errors and try again.
+No customer account found"
+empty,,,Please enter your email
+empty email,josi115@yopmail.com,,"Login was unsuccessful. Please correct the errors and try again.\nThe credentials provided are incorrect"

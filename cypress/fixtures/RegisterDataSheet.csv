@@ -1,0 +1,9 @@
+Test_case_name,f_name,l_name,email,password,confirm_password,b_day,b_month,b_year,company_name,is_newsletter,gender,expect_result
+All valid Data 1,Josi,khanal,josi111@yopmail.com,12345a,12345a,28,7,2019,Braindigit,yes,M,https://demo.nopcommerce.com/registerresult/1?returnUrl=/
+All valid data 2 for Required field,Raj,Kumar,josi112@yopmail.com,12345b,12345b,,,,,,,https://demo.nopcommerce.com/registerresult/1?returnUrl=/
+All valid data 3,Shyam ,Kumar Nepal,josi113@yopmail.com,234543,234543,1,1,2018,Brain1,,,https://demo.nopcommerce.com/registerresult/1?returnUrl=/
+All Value Empty,,,,,,,,,,,,https://demo.nopcommerce.com/register?returnUrl=%2F
+0ne(First name) field Empty,,Nepal,1232@nepal,brain123,brain123,,,,,,,https://demo.nopcommerce.com/register?returnUrl=%2F
+All Require field Empty,,,,,,2,3,2017,brain,yes,F,https://demo.nopcommerce.com/register?returnUrl=%2F
+all valid data 4,Krishna,Nepal,josi114@yopmail.com,brain123,brain123,,,,,,,https://demo.nopcommerce.com/registerresult/1?returnUrl=/
+all valid data 5,Nepal,Nepal,josi115@yopmail.com,brain@123,brain@123,,,,,,,https://demo.nopcommerce.com/registerresult/1?returnUrl=/

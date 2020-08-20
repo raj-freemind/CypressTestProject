@@ -1,0 +1,5 @@
+{
+
+    "defaultCommandTimeout":100000,
+    "baseUrl":"https://demo.nopcommerce.com/"
+}

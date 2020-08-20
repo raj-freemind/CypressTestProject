@@ -1,0 +1,17 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajkumar Khanal",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  },
+  "dependencies": {
+    "papaparse": "^5.2.0"
+  }
+}
