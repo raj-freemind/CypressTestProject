@@ -15,6 +15,7 @@ class LoginPage {
         field.clear()
         if(value!=""){
             field.type(value)
+            //change
         }
         else{
             field.type('{enter}')
